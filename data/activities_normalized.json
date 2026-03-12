@@ -17927,6 +17927,19 @@
     "year": 2025
   },
   {
+    "date": "2025-11-07",
+    "distance": 6855.8,
+    "elevation_gain": 0.0,
+    "id": "17692425447",
+    "moving_time": 128880.0,
+    "name": "Day 311: 4 Miles with some Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2025-11-07T20:00:00Z",
+    "type": "Run",
+    "year": 2025
+  },
+  {
     "date": "2025-11-08",
     "distance": 6862.6,
     "elevation_gain": 0.0,
