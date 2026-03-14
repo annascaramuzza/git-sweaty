@@ -13895,6 +13895,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17703052710",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 10,
+      "name": "Easy Progressive with 5x20\u201d Strides",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17709285069",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 7,
+      "name": "LHTC Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17720234229",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27359,6 +27377,24 @@
           "distance": 10024.4,
           "elevation_gain": 100.0,
           "moving_time": 3394.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17709285069"
+          ],
+          "count": 1,
+          "distance": 11732.8,
+          "elevation_gain": 132.0,
+          "moving_time": 3734.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17720234229"
+          ],
+          "count": 1,
+          "distance": 32393.5,
+          "elevation_gain": 205.0,
+          "moving_time": 9042.0
         }
       },
       "Swim": {
@@ -27535,7 +27571,7 @@
       }
     }
   },
-  "generated_at": "2026-03-13T15:34:59.228126+00:00",
+  "generated_at": "2026-03-14T15:18:57.057985+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

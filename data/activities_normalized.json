@@ -20070,5 +20070,31 @@
     "start_date_local": "2026-03-12T18:46:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 11732.8,
+    "elevation_gain": 132.0,
+    "id": "17709285069",
+    "moving_time": 3734.0,
+    "name": "Easy Progressive with 5x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-13T10:38:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 32393.5,
+    "elevation_gain": 205.0,
+    "id": "17720234229",
+    "moving_time": 9042.0,
+    "name": "LHTC Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T07:53:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
