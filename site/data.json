@@ -13922,6 +13922,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17742664796",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 18,
+      "name": "Easy Progressive with Strides",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17760764294",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27413,6 +27422,15 @@
           "distance": 9133.4,
           "elevation_gain": 83.0,
           "moving_time": 3086.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17760764294"
+          ],
+          "count": 1,
+          "distance": 13050.1,
+          "elevation_gain": 150.0,
+          "moving_time": 4095.0
         }
       },
       "Swim": {
@@ -27589,7 +27607,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T15:56:09.910736+00:00",
+  "generated_at": "2026-03-18T16:01:46.724760+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

@@ -20109,5 +20109,18 @@
     "start_date_local": "2026-03-16T09:22:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 13050.1,
+    "elevation_gain": 150.0,
+    "id": "17760764294",
+    "moving_time": 4095.0,
+    "name": "Easy Progressive with Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T18:14:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
