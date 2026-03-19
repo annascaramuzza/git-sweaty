@@ -20122,5 +20122,18 @@
     "start_date_local": "2026-03-17T18:14:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 16145.3,
+    "elevation_gain": 98.0,
+    "id": "17773379335",
+    "moving_time": 4320.0,
+    "name": "WU + 3/1/2/1 + CD",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T18:25:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

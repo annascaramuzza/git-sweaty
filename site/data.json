@@ -13931,6 +13931,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17760764294",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 18,
+      "name": "WU + 3/1/2/1 + CD",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17773379335",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27431,6 +27440,15 @@
           "distance": 13050.1,
           "elevation_gain": 150.0,
           "moving_time": 4095.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17773379335"
+          ],
+          "count": 1,
+          "distance": 16145.3,
+          "elevation_gain": 98.0,
+          "moving_time": 4320.0
         }
       },
       "Swim": {
@@ -27607,7 +27625,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T16:01:46.724760+00:00",
+  "generated_at": "2026-03-19T15:44:10.505930+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
