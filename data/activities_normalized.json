@@ -20148,5 +20148,57 @@
     "start_date_local": "2026-03-19T15:58:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 13174.6,
+    "elevation_gain": 113.0,
+    "id": "17792958807",
+    "moving_time": 4200.0,
+    "name": "Easy Progressive with 5x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T11:24:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 5312.4,
+    "elevation_gain": 5.0,
+    "id": "17801930756",
+    "moving_time": 1586.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T07:41:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 2610.6,
+    "elevation_gain": 16.0,
+    "id": "17803512691",
+    "moving_time": 858.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T09:46:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 21100.8,
+    "elevation_gain": 137.0,
+    "id": "17803513153",
+    "moving_time": 5574.0,
+    "name": "LHTC 13.1 Miles at MP \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T08:10:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
