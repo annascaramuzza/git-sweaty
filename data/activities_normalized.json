@@ -20213,5 +20213,44 @@
     "start_date_local": "2026-03-21T18:39:03Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 3522.8,
+    "elevation_gain": 60.0,
+    "id": "17822167039",
+    "moving_time": 2751.0,
+    "name": "Walk with Daisy \ud83c\udf3c",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-22T17:41:46Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17822679091",
+    "moving_time": 3500.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-22T18:53:28Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 10147.0,
+    "elevation_gain": 105.0,
+    "id": "17828466380",
+    "moving_time": 3430.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-23T10:00:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
