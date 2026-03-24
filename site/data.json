@@ -14021,6 +14021,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17828466380",
       "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 19,
+      "name": "Strength, Mobility and Foam Rolling",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17834610505",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27720,6 +27729,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2161.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17834610505"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3480.0
         }
       },
       "Yoga": {
@@ -27771,7 +27789,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T15:53:21.990710+00:00",
+  "generated_at": "2026-03-24T15:57:44.247732+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
