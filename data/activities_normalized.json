@@ -20265,5 +20265,31 @@
     "start_date_local": "2026-03-23T19:14:18Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 11793.1,
+    "elevation_gain": 101.0,
+    "id": "17847592969",
+    "moving_time": 3885.0,
+    "name": "Easy-Recovery with 5x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-24T18:44:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 13196.6,
+    "elevation_gain": 0.0,
+    "id": "17852563799",
+    "moving_time": 3640.0,
+    "name": "WU + 8x800 + CD",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T06:58:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
