@@ -20317,5 +20317,83 @@
     "start_date_local": "2026-03-27T10:25:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 4510.3,
+    "elevation_gain": 16.0,
+    "id": "17894479674",
+    "moving_time": 1384.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T16:41:38Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 4923.2,
+    "elevation_gain": 4.0,
+    "id": "17894483426",
+    "moving_time": 1279.0,
+    "name": "5K Pacing at DC10",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T18:43:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 2009.5,
+    "elevation_gain": 12.0,
+    "id": "17894483429",
+    "moving_time": 712.0,
+    "name": "In Between the 10K and 5K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T18:23:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 9629.1,
+    "elevation_gain": 0.0,
+    "id": "17894483439",
+    "moving_time": 2585.0,
+    "name": "10K Pacing at DC10",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T17:25:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 4079.2,
+    "elevation_gain": 32.0,
+    "id": "17894528623",
+    "moving_time": 1370.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T19:13:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 300.0,
+    "elevation_gain": 0.0,
+    "id": "17895332849",
+    "moving_time": 102.0,
+    "name": "Victory Lap!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T21:58:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
