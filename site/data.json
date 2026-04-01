@@ -14151,10 +14151,46 @@
     {
       "date": "2026-03-31",
       "hour": 10,
-      "name": "Morning Run",
+      "name": "7 Miles Easy with 5x20\u201d Strides",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17926121884",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17931745175",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17936518567",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 7,
+      "name": "2x3200, 1x1600, 3x200 w/ 200 float",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17937118226",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 8,
+      "name": "Cool Down",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17937391578",
       "year": 2026
     }
   ],
@@ -27771,6 +27807,17 @@
           "distance": 11625.6,
           "elevation_gain": 98.0,
           "moving_time": 3608.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17936518567",
+            "17937118226",
+            "17937391578"
+          ],
+          "count": 3,
+          "distance": 15738.4,
+          "elevation_gain": 31.0,
+          "moving_time": 4406.0
         }
       },
       "Swim": {
@@ -27894,6 +27941,15 @@
           "distance": 5286.4,
           "elevation_gain": 110.0,
           "moving_time": 4169.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17931745175"
+          ],
+          "count": 1,
+          "distance": 3877.9,
+          "elevation_gain": 66.0,
+          "moving_time": 3095.0
         }
       },
       "WeightTraining": {
@@ -28001,7 +28057,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T16:00:00.520458+00:00",
+  "generated_at": "2026-04-01T16:02:19.366510+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
