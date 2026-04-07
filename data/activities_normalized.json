@@ -20564,5 +20564,18 @@
     "start_date_local": "2026-04-06T08:16:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 8703.0,
+    "elevation_gain": 3.0,
+    "id": "18010411624",
+    "moving_time": 2970.0,
+    "name": "5 Easy-Recovery with 5x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T11:08:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
