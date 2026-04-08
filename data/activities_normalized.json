@@ -20577,5 +20577,18 @@
     "start_date_local": "2026-04-07T11:08:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 9712.2,
+    "elevation_gain": 5.0,
+    "id": "18024587805",
+    "moving_time": 2720.0,
+    "name": "Milan Tune Up!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T11:21:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
