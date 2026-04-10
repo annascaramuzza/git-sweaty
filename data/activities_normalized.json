@@ -20590,5 +20590,18 @@
     "start_date_local": "2026-04-08T11:21:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 7516.6,
+    "elevation_gain": 2.0,
+    "id": "18049935882",
+    "moving_time": 2418.0,
+    "name": "Easy with 4x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T07:42:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
