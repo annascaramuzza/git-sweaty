@@ -14273,6 +14273,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18063527625",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 8,
+      "name": "Bad Day at Milano Marathon",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18078306017",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27971,6 +27980,15 @@
           "distance": 7231.4,
           "elevation_gain": 11.0,
           "moving_time": 2245.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18078306017"
+          ],
+          "count": 1,
+          "distance": 42514.5,
+          "elevation_gain": 77.0,
+          "moving_time": 12824.0
         }
       },
       "Swim": {
@@ -28219,7 +28237,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:24:49.035962+00:00",
+  "generated_at": "2026-04-12T15:28:34.870173+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
