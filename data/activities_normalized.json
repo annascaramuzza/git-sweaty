@@ -20655,5 +20655,18 @@
     "start_date_local": "2026-04-15T18:40:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 10609.9,
+    "elevation_gain": 153.0,
+    "id": "18143099686",
+    "moving_time": 3675.0,
+    "name": "Run to World Economic Forum",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T08:56:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

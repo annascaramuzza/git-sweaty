@@ -14300,6 +14300,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18124232255",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 8,
+      "name": "Run to World Economic Forum",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18143099686",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28016,6 +28025,15 @@
           "distance": 5234.6,
           "elevation_gain": 3.0,
           "moving_time": 1810.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18143099686"
+          ],
+          "count": 1,
+          "distance": 10609.9,
+          "elevation_gain": 153.0,
+          "moving_time": 3675.0
         }
       },
       "Swim": {
@@ -28273,7 +28291,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:16:31.905972+00:00",
+  "generated_at": "2026-04-17T15:51:37.883607+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
