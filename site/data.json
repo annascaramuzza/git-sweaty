@@ -14309,6 +14309,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18143099686",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 7,
+      "name": "Jonction to Lac L\u00e8man",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18153271322",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28034,6 +28043,15 @@
           "distance": 10609.9,
           "elevation_gain": 153.0,
           "moving_time": 3675.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18153271322"
+          ],
+          "count": 1,
+          "distance": 13203.1,
+          "elevation_gain": 82.0,
+          "moving_time": 4118.0
         }
       },
       "Swim": {
@@ -28291,7 +28309,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:51:37.883607+00:00",
+  "generated_at": "2026-04-18T15:30:10.675261+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
