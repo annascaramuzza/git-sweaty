@@ -20707,5 +20707,18 @@
     "start_date_local": "2026-04-21T12:05:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 13730.5,
+    "elevation_gain": 10.0,
+    "id": "18208715517",
+    "moving_time": 3868.0,
+    "name": "Workout Wednesday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T09:39:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -14336,6 +14336,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18195667236",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 9,
+      "name": "Workout Wednesday",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18208715517",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28088,6 +28097,15 @@
           "distance": 10017.7,
           "elevation_gain": 10.0,
           "moving_time": 3094.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18208715517"
+          ],
+          "count": 1,
+          "distance": 13730.5,
+          "elevation_gain": 10.0,
+          "moving_time": 3868.0
         }
       },
       "Swim": {
@@ -28345,7 +28363,7 @@
       }
     }
   },
-  "generated_at": "2026-04-21T16:05:25.406667+00:00",
+  "generated_at": "2026-04-22T16:03:36.954410+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
