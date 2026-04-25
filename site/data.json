@@ -14363,6 +14363,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18239915777",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 9,
+      "name": "WU + 3x 800 on, 800 off + CD",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18248282927",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28142,6 +28151,15 @@
           "distance": 11755.3,
           "elevation_gain": 8.0,
           "moving_time": 3724.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18248282927"
+          ],
+          "count": 1,
+          "distance": 13073.0,
+          "elevation_gain": 7.0,
+          "moving_time": 3862.0
         }
       },
       "Swim": {
@@ -28399,7 +28417,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:59:22.241328+00:00",
+  "generated_at": "2026-04-25T15:32:39.947808+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

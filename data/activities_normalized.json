@@ -20746,5 +20746,18 @@
     "start_date_local": "2026-04-24T15:55:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 13073.0,
+    "elevation_gain": 7.0,
+    "id": "18248282927",
+    "moving_time": 3862.0,
+    "name": "WU + 3x 800 on, 800 off + CD",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T09:39:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
