@@ -20759,5 +20759,18 @@
     "start_date_local": "2026-04-25T09:39:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18264591716",
+    "moving_time": 3845.0,
+    "name": "Sauna Gus",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-26T12:09:11Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
