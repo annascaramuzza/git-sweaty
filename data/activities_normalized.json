@@ -20772,5 +20772,31 @@
     "start_date_local": "2026-04-26T12:09:11Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 15054.9,
+    "elevation_gain": 11.0,
+    "id": "18276363329",
+    "moving_time": 4638.0,
+    "name": "One of those really awesome runs",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T10:54:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18280135026",
+    "moving_time": 3610.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-27T17:01:57Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

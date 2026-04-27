@@ -14381,6 +14381,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18264591716",
       "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 10,
+      "name": "One of those really awesome runs",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18276363329",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 17,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18280135026",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28169,6 +28187,15 @@
           "distance": 13073.0,
           "elevation_gain": 7.0,
           "moving_time": 3862.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18276363329"
+          ],
+          "count": 1,
+          "distance": 15054.9,
+          "elevation_gain": 11.0,
+          "moving_time": 4638.0
         }
       },
       "Swim": {
@@ -28433,11 +28460,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18280135026"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3610.0
         }
       }
     }
   },
-  "generated_at": "2026-04-26T15:35:05.014752+00:00",
+  "generated_at": "2026-04-27T16:19:49.765728+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
