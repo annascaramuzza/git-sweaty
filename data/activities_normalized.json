@@ -20798,5 +20798,57 @@
     "start_date_local": "2026-04-27T17:01:57Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 8240.4,
+    "elevation_gain": 102.0,
+    "id": "18311841465",
+    "moving_time": 2610.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-29T16:45:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 3446.5,
+    "elevation_gain": 24.0,
+    "id": "18317385598",
+    "moving_time": 1114.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T06:32:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 10541.9,
+    "elevation_gain": 0.0,
+    "id": "18318154844",
+    "moving_time": 2578.0,
+    "name": "Thursday Workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T06:53:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 2520.8,
+    "elevation_gain": 43.0,
+    "id": "18318396966",
+    "moving_time": 840.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T07:55:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
