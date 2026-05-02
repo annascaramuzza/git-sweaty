@@ -14435,6 +14435,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18318396966",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 11,
+      "name": "Recovery Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18335518016",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 7,
+      "name": "Long Run Workout",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18346469879",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28252,6 +28270,24 @@
           "distance": 16509.2,
           "elevation_gain": 67.0,
           "moving_time": 4532.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18335518016"
+          ],
+          "count": 1,
+          "distance": 8568.2,
+          "elevation_gain": 80.0,
+          "moving_time": 2946.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18346469879"
+          ],
+          "count": 1,
+          "distance": 22616.0,
+          "elevation_gain": 145.0,
+          "moving_time": 6708.0
         }
       },
       "Swim": {
@@ -28529,7 +28565,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:46:46.417325+00:00",
+  "generated_at": "2026-05-02T15:38:35.590652+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

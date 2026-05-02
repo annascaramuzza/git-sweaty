@@ -20850,5 +20850,31 @@
     "start_date_local": "2026-04-30T07:55:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 8568.2,
+    "elevation_gain": 80.0,
+    "id": "18335518016",
+    "moving_time": 2946.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T11:32:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 22616.0,
+    "elevation_gain": 145.0,
+    "id": "18346469879",
+    "moving_time": 6708.0,
+    "name": "Long Run Workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T07:37:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
