@@ -14448,10 +14448,19 @@
     {
       "date": "2026-05-02",
       "hour": 7,
-      "name": "Long Run Workout",
+      "name": "LHTC Long Run Workout",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18346469879",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 8,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18360030168",
       "year": 2026
     }
   ],
@@ -28561,11 +28570,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3610.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18360030168"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3619.0
         }
       }
     }
   },
-  "generated_at": "2026-05-02T15:38:35.590652+00:00",
+  "generated_at": "2026-05-03T15:38:22.201708+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
