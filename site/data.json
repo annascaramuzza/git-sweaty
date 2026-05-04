@@ -14462,6 +14462,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18360030168",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 15,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18365374639",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28447,6 +28456,15 @@
           "distance": 4418.5,
           "elevation_gain": 112.0,
           "moving_time": 3756.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18365374639"
+          ],
+          "count": 1,
+          "distance": 4028.8,
+          "elevation_gain": 81.0,
+          "moving_time": 3340.0
         }
       },
       "WeightTraining": {
@@ -28583,7 +28601,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:38:22.201708+00:00",
+  "generated_at": "2026-05-04T16:26:30.795736+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
