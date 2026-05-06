@@ -20915,5 +20915,31 @@
     "start_date_local": "2026-05-04T16:54:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 9864.2,
+    "elevation_gain": 88.0,
+    "id": "18392231524",
+    "moving_time": 3100.0,
+    "name": "6 Easy with 4x45\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T18:13:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 14564.6,
+    "elevation_gain": 0.0,
+    "id": "18398362678",
+    "moving_time": 3920.0,
+    "name": "Workout Wednesday on the Tread",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T06:38:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
