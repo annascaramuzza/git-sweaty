@@ -20954,5 +20954,18 @@
     "start_date_local": "2026-05-06T17:30:36Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 10071.3,
+    "elevation_gain": 97.0,
+    "id": "18419285318",
+    "moving_time": 3392.0,
+    "name": "6 Mile Easy/Recovery",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T19:10:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -14507,6 +14507,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18405043490",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 19,
+      "name": "6 Mile Easy/Recovery",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18419285318",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28369,6 +28378,15 @@
           "distance": 14564.6,
           "elevation_gain": 0.0,
           "moving_time": 3920.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18419285318"
+          ],
+          "count": 1,
+          "distance": 10071.3,
+          "elevation_gain": 97.0,
+          "moving_time": 3392.0
         }
       },
       "Swim": {
@@ -28673,7 +28691,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:43:54.582514+00:00",
+  "generated_at": "2026-05-08T16:09:35.503477+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
