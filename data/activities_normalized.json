@@ -21006,5 +21006,18 @@
     "start_date_local": "2026-05-09T12:34:02Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 4274.9,
+    "elevation_gain": 73.0,
+    "id": "18458136952",
+    "moving_time": 3453.0,
+    "name": "Drizzly Walk with Daisy \ud83c\udf3c",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-10T17:49:25Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
