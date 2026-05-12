@@ -14552,6 +14552,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18458136952",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 6,
+      "name": "Warm Up",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18476296194",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 8,
+      "name": "Cool Down",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18476302815",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 7,
+      "name": "Brooklyn Half Tune Up",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18476302875",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28441,6 +28468,17 @@
           "distance": 14593.2,
           "elevation_gain": 129.0,
           "moving_time": 4144.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18476296194",
+            "18476302815",
+            "18476302875"
+          ],
+          "count": 3,
+          "distance": 13350.2,
+          "elevation_gain": 72.0,
+          "moving_time": 3723.0
         }
       },
       "Swim": {
@@ -28763,7 +28801,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:19:18.659246+00:00",
+  "generated_at": "2026-05-12T17:02:48.060047+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

@@ -21019,5 +21019,44 @@
     "start_date_local": "2026-05-10T17:49:25Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 2263.0,
+    "elevation_gain": 35.0,
+    "id": "18476296194",
+    "moving_time": 720.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T06:57:45Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 2582.7,
+    "elevation_gain": 37.0,
+    "id": "18476302815",
+    "moving_time": 862.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T08:04:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 8504.5,
+    "elevation_gain": 0.0,
+    "id": "18476302875",
+    "moving_time": 2141.0,
+    "name": "Brooklyn Half Tune Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T07:11:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
