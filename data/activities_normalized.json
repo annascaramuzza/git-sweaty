@@ -21071,5 +21071,18 @@
     "start_date_local": "2026-05-13T15:23:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 6514.4,
+    "elevation_gain": 70.0,
+    "id": "18516954046",
+    "moving_time": 1985.0,
+    "name": "Shakeout!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T09:01:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
