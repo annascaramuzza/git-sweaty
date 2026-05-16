@@ -21078,10 +21078,36 @@
     "elevation_gain": 70.0,
     "id": "18516954046",
     "moving_time": 1985.0,
-    "name": "Shakeout!",
+    "name": "BK Half Shakeout!",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-15T09:01:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 2058.9,
+    "elevation_gain": 16.0,
+    "id": "18530065704",
+    "moving_time": 966.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T06:22:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 21300.1,
+    "elevation_gain": 85.0,
+    "id": "18530074151",
+    "moving_time": 5471.0,
+    "name": "Brooklyn Half!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T07:03:17Z",
     "type": "Run",
     "year": 2026
   }
