@@ -21136,5 +21136,31 @@
     "start_date_local": "2026-05-20T09:03:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18587944163",
+    "moving_time": 1854.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-20T17:30:11Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 10306.6,
+    "elevation_gain": 93.0,
+    "id": "18593436241",
+    "moving_time": 3372.0,
+    "name": "Easy with Friends",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T05:55:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
