@@ -14651,6 +14651,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18593436241",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 18,
+      "name": "Evening Run on the Tread",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18615214508",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28606,6 +28615,15 @@
           "distance": 10306.6,
           "elevation_gain": 93.0,
           "moving_time": 3372.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18615214508"
+          ],
+          "count": 1,
+          "distance": 11587.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
         }
       },
       "Swim": {
@@ -28937,7 +28955,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:02:43.443440+00:00",
+  "generated_at": "2026-05-23T15:55:39.583663+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
