@@ -21175,5 +21175,31 @@
     "start_date_local": "2026-05-22T18:23:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 19102.5,
+    "elevation_gain": 221.0,
+    "id": "18624900396",
+    "moving_time": 2515.0,
+    "name": "Zwift - A Gentle Reminder on Hilly Route in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-23T13:00:40Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 16455.3,
+    "elevation_gain": 148.0,
+    "id": "18637051434",
+    "moving_time": 5202.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T10:00:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

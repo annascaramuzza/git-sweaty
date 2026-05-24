@@ -14660,6 +14660,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18615214508",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 13,
+      "name": "Zwift - A Gentle Reminder on Hilly Route in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18624900396",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18637051434",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28624,6 +28642,15 @@
           "distance": 11587.3,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18637051434"
+          ],
+          "count": 1,
+          "distance": 16455.3,
+          "elevation_gain": 148.0,
+          "moving_time": 5202.0
         }
       },
       "Swim": {
@@ -28691,6 +28718,15 @@
           "distance": 32327.6,
           "elevation_gain": 386.0,
           "moving_time": 4815.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18624900396"
+          ],
+          "count": 1,
+          "distance": 19102.5,
+          "elevation_gain": 221.0,
+          "moving_time": 2515.0
         }
       },
       "Walk": {
@@ -28955,7 +28991,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T15:55:39.583663+00:00",
+  "generated_at": "2026-05-24T15:55:16.446317+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
