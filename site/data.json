@@ -14673,10 +14673,19 @@
     {
       "date": "2026-05-24",
       "hour": 10,
-      "name": "Morning Run",
+      "name": "Easy Miles on the Trails",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18637051434",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 12,
+      "name": "Lunch Stair-Stepper",
+      "subtype": "StairStepper",
+      "type": "StairStepper",
+      "url": "https://www.strava.com/activities/18650479855",
       "year": 2026
     }
   ],
@@ -28653,6 +28662,17 @@
           "moving_time": 5202.0
         }
       },
+      "StairStepper": {
+        "2026-05-25": {
+          "activity_ids": [
+            "18650479855"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2790.0
+        }
+      },
       "Swim": {
         "2026-01-02": {
           "activity_ids": [
@@ -28991,7 +29011,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:55:16.446317+00:00",
+  "generated_at": "2026-05-25T16:59:36.639554+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

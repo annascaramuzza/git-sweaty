@@ -21195,11 +21195,24 @@
     "elevation_gain": 148.0,
     "id": "18637051434",
     "moving_time": 5202.0,
-    "name": "Morning Run",
+    "name": "Easy Miles on the Trails",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-24T10:00:25Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18650479855",
+    "moving_time": 2790.0,
+    "name": "Lunch Stair-Stepper",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-05-25T12:07:31Z",
+    "type": "StairStepper",
     "year": 2026
   }
 ]
