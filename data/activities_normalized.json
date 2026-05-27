@@ -21214,5 +21214,31 @@
     "start_date_local": "2026-05-25T12:07:31Z",
     "type": "StairStepper",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 9737.9,
+    "elevation_gain": 95.0,
+    "id": "18668751031",
+    "moving_time": 3055.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T19:37:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 8623.2,
+    "elevation_gain": 64.0,
+    "id": "18674354966",
+    "moving_time": 2822.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T07:09:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
