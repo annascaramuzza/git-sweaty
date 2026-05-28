@@ -21240,5 +21240,31 @@
     "start_date_local": "2026-05-27T07:09:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18682086052",
+    "moving_time": 2225.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-27T18:41:18Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 17048.7,
+    "elevation_gain": 65.0,
+    "id": "18689902822",
+    "moving_time": 2053.0,
+    "name": "Zwift - Recovery Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-28T10:11:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
