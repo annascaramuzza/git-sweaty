@@ -14723,6 +14723,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18689902822",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18695843223",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28714,6 +28723,15 @@
           "distance": 8623.2,
           "elevation_gain": 64.0,
           "moving_time": 2822.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18695843223"
+          ],
+          "count": 1,
+          "distance": 10069.5,
+          "elevation_gain": 111.0,
+          "moving_time": 3370.0
         }
       },
       "StairStepper": {
@@ -29083,7 +29101,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T17:56:33.454360+00:00",
+  "generated_at": "2026-05-29T18:00:14.220097+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
