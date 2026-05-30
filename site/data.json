@@ -14732,6 +14732,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18695843223",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 16,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18707327057",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 7,
+      "name": "LHTC Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18715480430",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28732,6 +28750,15 @@
           "distance": 10069.5,
           "elevation_gain": 111.0,
           "moving_time": 3370.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18715480430"
+          ],
+          "count": 1,
+          "distance": 16163.6,
+          "elevation_gain": 103.0,
+          "moving_time": 5304.0
         }
       },
       "StairStepper": {
@@ -28754,6 +28781,15 @@
           "distance": 729.8,
           "elevation_gain": 0.0,
           "moving_time": 3513.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18707327057"
+          ],
+          "count": 1,
+          "distance": 1828.8,
+          "elevation_gain": 0.0,
+          "moving_time": 2530.0
         }
       },
       "VirtualRide": {
@@ -29101,7 +29137,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:00:14.220097+00:00",
+  "generated_at": "2026-05-30T15:58:53.995243+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

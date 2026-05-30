@@ -21279,5 +21279,31 @@
     "start_date_local": "2026-05-28T18:20:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 1828.8,
+    "elevation_gain": 0.0,
+    "id": "18707327057",
+    "moving_time": 2530.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-29T16:51:09Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 16163.6,
+    "elevation_gain": 103.0,
+    "id": "18715480430",
+    "moving_time": 5304.0,
+    "name": "LHTC Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T07:45:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
