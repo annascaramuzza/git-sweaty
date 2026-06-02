@@ -21318,5 +21318,31 @@
     "start_date_local": "2026-05-31T14:44:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 10067.7,
+    "elevation_gain": 87.0,
+    "id": "18748940251",
+    "moving_time": 3060.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-01T18:47:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18756440557",
+    "moving_time": 2922.0,
+    "name": "Morning Stair-Stepper",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-06-02T09:33:00Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]
