@@ -21409,5 +21409,31 @@
     "start_date_local": "2026-06-03T17:47:28Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 24290.4,
+    "elevation_gain": 66.0,
+    "id": "18789776400",
+    "moving_time": 2769.0,
+    "name": "Zwift - Get In the Zone",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T17:22:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 10143.4,
+    "elevation_gain": 89.0,
+    "id": "18797513277",
+    "moving_time": 3200.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T09:27:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
