@@ -14840,6 +14840,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18797513277",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 8,
+      "name": "Easy 10 Miles",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18811653509",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28878,6 +28887,15 @@
           "distance": 10143.4,
           "elevation_gain": 89.0,
           "moving_time": 3200.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18811653509"
+          ],
+          "count": 1,
+          "distance": 16911.7,
+          "elevation_gain": 28.0,
+          "moving_time": 5740.0
         }
       },
       "StairStepper": {
@@ -29301,7 +29319,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T17:07:55.873341+00:00",
+  "generated_at": "2026-06-06T16:01:30.604203+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
