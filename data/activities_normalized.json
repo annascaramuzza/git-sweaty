@@ -21448,5 +21448,44 @@
     "start_date_local": "2026-06-06T08:57:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 3455.5,
+    "elevation_gain": 19.0,
+    "id": "18835315718",
+    "moving_time": 1114.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T07:11:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 4085.5,
+    "elevation_gain": 0.0,
+    "id": "18835772262",
+    "moving_time": 949.0,
+    "name": "Run Unbridled Tune Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T07:34:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 3869.1,
+    "elevation_gain": 39.0,
+    "id": "18836108732",
+    "moving_time": 1285.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T08:10:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
