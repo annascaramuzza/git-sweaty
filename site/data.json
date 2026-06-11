@@ -14894,6 +14894,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18851355508",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 18,
+      "name": "6 Extra Humid and Sweaty Miles with Strides",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18871365243",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 7,
+      "name": "Pre Meet!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18879395083",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28961,6 +28979,24 @@
           "distance": 8253.6,
           "elevation_gain": 92.0,
           "moving_time": 2634.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18871365243"
+          ],
+          "count": 1,
+          "distance": 10068.0,
+          "elevation_gain": 82.0,
+          "moving_time": 3210.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18879395083"
+          ],
+          "count": 1,
+          "distance": 8056.4,
+          "elevation_gain": 49.0,
+          "moving_time": 2600.0
         }
       },
       "StairStepper": {
@@ -29393,7 +29429,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T17:51:25.873412+00:00",
+  "generated_at": "2026-06-11T18:05:13.456685+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

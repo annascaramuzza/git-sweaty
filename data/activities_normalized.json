@@ -21513,5 +21513,31 @@
     "start_date_local": "2026-06-09T09:49:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 10068.0,
+    "elevation_gain": 82.0,
+    "id": "18871365243",
+    "moving_time": 3210.0,
+    "name": "6 Extra Humid and Sweaty Miles with Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T18:12:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 8056.4,
+    "elevation_gain": 49.0,
+    "id": "18879395083",
+    "moving_time": 2600.0,
+    "name": "Pre Meet!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-11T07:31:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
