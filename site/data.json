@@ -14975,6 +14975,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18929598040",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 18,
+      "name": "PT Exercises",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18935935940",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 19,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18936779205",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18943693573",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29089,6 +29116,15 @@
           "distance": 10023.7,
           "elevation_gain": 21.0,
           "moving_time": 3140.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18943693573"
+          ],
+          "count": 1,
+          "distance": 11433.3,
+          "elevation_gain": 22.0,
+          "moving_time": 3680.0
         }
       },
       "StairStepper": {
@@ -29340,6 +29376,15 @@
           "distance": 6609.4,
           "elevation_gain": 11.0,
           "moving_time": 5140.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18936779205"
+          ],
+          "count": 1,
+          "distance": 3253.8,
+          "elevation_gain": 6.0,
+          "moving_time": 2677.0
         }
       },
       "WeightTraining": {
@@ -29423,6 +29468,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4456.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18935935940"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4187.0
         }
       },
       "Workout": {
@@ -29539,7 +29593,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:00:23.536410+00:00",
+  "generated_at": "2026-06-16T18:52:06.386872+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
