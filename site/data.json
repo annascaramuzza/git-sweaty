@@ -15002,6 +15002,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18943693573",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 8,
+      "name": "4x2K + 4x20\u201d Hills",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18957995439",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29125,6 +29134,15 @@
           "distance": 11433.3,
           "elevation_gain": 22.0,
           "moving_time": 3680.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18957995439"
+          ],
+          "count": 1,
+          "distance": 14831.4,
+          "elevation_gain": 15.0,
+          "moving_time": 4210.0
         }
       },
       "StairStepper": {
@@ -29593,7 +29611,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T18:52:06.386872+00:00",
+  "generated_at": "2026-06-17T17:45:17.202715+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
