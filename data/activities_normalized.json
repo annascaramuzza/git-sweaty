@@ -21695,5 +21695,31 @@
     "start_date_local": "2026-06-17T18:28:26Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 8380.3,
+    "elevation_gain": 14.0,
+    "id": "18978228133",
+    "moving_time": 2918.0,
+    "name": "5 Recovery",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T19:13:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 11599.4,
+    "elevation_gain": 18.0,
+    "id": "18985807794",
+    "moving_time": 3666.0,
+    "name": "7 Easy with 6x30\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-19T10:40:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
