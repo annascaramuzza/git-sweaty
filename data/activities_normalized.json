@@ -21786,5 +21786,31 @@
     "start_date_local": "2026-06-22T08:35:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 11334.8,
+    "elevation_gain": 96.0,
+    "id": "19042982905",
+    "moving_time": 3521.0,
+    "name": "7 Easy with 5x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T19:34:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 14656.2,
+    "elevation_gain": 92.0,
+    "id": "19048910902",
+    "moving_time": 4102.0,
+    "name": "Workout Wednesday - 1200s into 400s and Hills",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T07:28:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
