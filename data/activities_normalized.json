@@ -21812,5 +21812,31 @@
     "start_date_local": "2026-06-24T07:28:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19055115112",
+    "moving_time": 3130.0,
+    "name": "Lower Body Lift",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-24T17:48:09Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 9859.2,
+    "elevation_gain": 89.0,
+    "id": "19062693639",
+    "moving_time": 3276.0,
+    "name": "6 Recovery",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T09:54:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
