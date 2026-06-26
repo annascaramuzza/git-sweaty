@@ -21838,5 +21838,18 @@
     "start_date_local": "2026-06-25T09:54:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 13152.1,
+    "elevation_gain": 121.0,
+    "id": "19074574197",
+    "moving_time": 4144.0,
+    "name": "8 Easy with 7x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T08:51:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
