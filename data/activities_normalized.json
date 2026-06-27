@@ -21851,5 +21851,18 @@
     "start_date_local": "2026-06-26T08:51:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 22633.8,
+    "elevation_gain": 135.0,
+    "id": "19085957658",
+    "moving_time": 7018.0,
+    "name": "LHTC Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T07:19:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
