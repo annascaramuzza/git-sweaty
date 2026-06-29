@@ -21864,5 +21864,31 @@
     "start_date_local": "2026-06-27T07:19:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19101004972",
+    "moving_time": 4578.0,
+    "name": "Upper Body Lift",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-28T11:11:50Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 11693.9,
+    "elevation_gain": 130.0,
+    "id": "19111297063",
+    "moving_time": 3790.0,
+    "name": "7 Easy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-29T09:43:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

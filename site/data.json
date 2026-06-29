@@ -15137,6 +15137,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19085957658",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 11,
+      "name": "Upper Body Lift",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19101004972",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 9,
+      "name": "7 Easy",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19111297063",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29350,6 +29368,15 @@
           "distance": 22633.8,
           "elevation_gain": 135.0,
           "moving_time": 7018.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19111297063"
+          ],
+          "count": 1,
+          "distance": 11693.9,
+          "elevation_gain": 130.0,
+          "moving_time": 3790.0
         }
       },
       "StairStepper": {
@@ -29747,6 +29774,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3130.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19101004972"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4578.0
         }
       },
       "Workout": {
@@ -29863,7 +29899,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T16:02:33.628441+00:00",
+  "generated_at": "2026-06-29T17:27:29.196332+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
