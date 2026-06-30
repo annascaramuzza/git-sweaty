@@ -21890,5 +21890,18 @@
     "start_date_local": "2026-06-29T09:43:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 11474.5,
+    "elevation_gain": 121.0,
+    "id": "19124113366",
+    "moving_time": 3660.0,
+    "name": "7 Easy with 5x30\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T08:56:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
