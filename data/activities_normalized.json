@@ -21903,5 +21903,44 @@
     "start_date_local": "2026-06-30T08:56:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 3609.7,
+    "elevation_gain": 22.0,
+    "id": "19136168123",
+    "moving_time": 1186.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-01T06:01:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 6719.9,
+    "elevation_gain": 92.0,
+    "id": "19136174899",
+    "moving_time": 1643.0,
+    "name": "LHTC Workout Wednesday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-01T06:26:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 1722.1,
+    "elevation_gain": 5.0,
+    "id": "19136175044",
+    "moving_time": 575.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-01T07:22:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
