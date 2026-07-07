@@ -21981,5 +21981,31 @@
     "start_date_local": "2026-07-06T10:10:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 3218.5,
+    "elevation_gain": 56.0,
+    "id": "19207911515",
+    "moving_time": 2833.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-06T18:18:45Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 13125.7,
+    "elevation_gain": 117.0,
+    "id": "19216083120",
+    "moving_time": 4042.0,
+    "name": "8 Miles with 4x45\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T10:14:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
