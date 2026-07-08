@@ -22007,5 +22007,18 @@
     "start_date_local": "2026-07-07T10:14:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 8218.1,
+    "elevation_gain": 83.0,
+    "id": "19228371034",
+    "moving_time": 3000.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-08T07:51:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
