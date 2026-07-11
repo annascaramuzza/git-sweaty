@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T16:50:02.366427+00:00",
+  "generated_at": "2026-07-11T15:44:50.244679+00:00",
   "years": {
     "2021": {
       "Run": {
@@ -12943,6 +12943,17 @@
       }
     },
     "2026": {
+      "Elliptical": {
+        "2026-07-10": {
+          "activity_ids": [
+            "19261252308"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2678.0
+        }
+      },
       "Run": {
         "2026-01-05": {
           "activity_ids": [
@@ -14314,6 +14325,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2922.0
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            "19261538306"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1560.0
         }
       },
       "Swim": {

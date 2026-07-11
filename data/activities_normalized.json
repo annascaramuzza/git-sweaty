@@ -22072,5 +22072,31 @@
     "start_date_local": "2026-07-10T08:23:06Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19261252308",
+    "moving_time": 2678.0,
+    "name": "Arc Trainer",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-07-10T17:58:35Z",
+    "type": "Elliptical",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19261538306",
+    "moving_time": 1560.0,
+    "name": "Evening Stair-Stepper",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-07-10T18:50:20Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]
