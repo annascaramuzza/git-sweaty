@@ -22124,5 +22124,31 @@
     "start_date_local": "2026-07-12T10:08:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 7083.1,
+    "elevation_gain": 100.0,
+    "id": "19286672626",
+    "moving_time": 5668.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-12T13:07:34Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 10538.5,
+    "elevation_gain": 109.0,
+    "id": "19295567985",
+    "moving_time": 3294.0,
+    "name": "6 Easy with 4x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-13T09:46:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
