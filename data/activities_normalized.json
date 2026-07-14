@@ -22150,5 +22150,31 @@
     "start_date_local": "2026-07-13T09:46:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19301444581",
+    "moving_time": 3654.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-13T18:02:09Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 10310.8,
+    "elevation_gain": 79.0,
+    "id": "19310253543",
+    "moving_time": 3160.0,
+    "name": "6 Mile Progressive",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T09:47:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
