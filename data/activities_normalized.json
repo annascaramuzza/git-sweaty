@@ -22254,5 +22254,31 @@
     "start_date_local": "2026-07-17T10:34:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19369548552",
+    "moving_time": 3922.0,
+    "name": "Upper Body Lift",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-18T19:17:10Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 16293.7,
+    "elevation_gain": 62.0,
+    "id": "19376837676",
+    "moving_time": 4948.0,
+    "name": "LHTC Sunday Funday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T08:07:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
