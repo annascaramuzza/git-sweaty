@@ -22488,5 +22488,31 @@
     "start_date_local": "2026-07-27T18:24:02Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19507535106",
+    "moving_time": 1922.0,
+    "name": "Evening Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-07-28T18:54:56Z",
+    "type": "Elliptical",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 5069.4,
+    "elevation_gain": 0.0,
+    "id": "19508158789",
+    "moving_time": 2114.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T19:45:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

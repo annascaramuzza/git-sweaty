@@ -15569,6 +15569,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19493568355",
       "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 18,
+      "name": "Evening Elliptical",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/19507535106",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19508158789",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28541,6 +28559,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4222.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19507535106"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1922.0
         }
       },
       "Run": {
@@ -29977,6 +30004,15 @@
           "distance": 2208.0,
           "elevation_gain": 37.6,
           "moving_time": 1547.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19508158789"
+          ],
+          "count": 1,
+          "distance": 5069.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2114.0
         }
       },
       "StairStepper": {
@@ -30689,7 +30725,7 @@
       }
     }
   },
-  "generated_at": "2026-07-28T16:28:07.440569+00:00",
+  "generated_at": "2026-07-29T16:15:43.379773+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
