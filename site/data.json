@@ -15587,6 +15587,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19508158789",
       "year": 2026
+    },
+    {
+      "date": "2026-07-29",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19521254696",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30013,6 +30022,15 @@
           "distance": 5069.4,
           "elevation_gain": 0.0,
           "moving_time": 2114.0
+        },
+        "2026-07-29": {
+          "activity_ids": [
+            "19521254696"
+          ],
+          "count": 1,
+          "distance": 10067.9,
+          "elevation_gain": 84.0,
+          "moving_time": 3116.0
         }
       },
       "StairStepper": {
@@ -30725,7 +30743,7 @@
       }
     }
   },
-  "generated_at": "2026-07-29T16:15:43.379773+00:00",
+  "generated_at": "2026-07-30T16:20:28.745050+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
