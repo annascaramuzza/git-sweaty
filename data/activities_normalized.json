@@ -22553,5 +22553,31 @@
     "start_date_local": "2026-07-30T18:03:31Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 8217.3,
+    "elevation_gain": 82.0,
+    "id": "19548572727",
+    "moving_time": 2516.0,
+    "name": "Progressive Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T18:52:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 53212.5,
+    "elevation_gain": 275.0,
+    "id": "19556769851",
+    "moving_time": 6439.0,
+    "name": "Zwift - Purple Unicorn",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-01T08:29:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
