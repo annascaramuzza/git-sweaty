@@ -22579,5 +22579,31 @@
     "start_date_local": "2026-08-01T08:29:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 13203.5,
+    "elevation_gain": 102.0,
+    "id": "19574904002",
+    "moving_time": 4094.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T14:28:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 8449.5,
+    "elevation_gain": 66.0,
+    "id": "19583759306",
+    "moving_time": 2700.0,
+    "name": "5 Easy with 3x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-03T09:42:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
