@@ -22631,5 +22631,31 @@
     "start_date_local": "2026-08-03T19:33:23Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 10065.3,
+    "elevation_gain": 79.0,
+    "id": "19605225894",
+    "moving_time": 3196.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-04T18:57:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 10648.2,
+    "elevation_gain": 82.0,
+    "id": "19611309634",
+    "moving_time": 3070.0,
+    "name": "LHTC Wet Workout Wednesday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-05T06:24:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
