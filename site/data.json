@@ -15735,7 +15735,7 @@
     {
       "date": "2026-08-08",
       "hour": 7,
-      "name": "Morning Run",
+      "name": "LHTC Long Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19654210889",
@@ -31031,7 +31031,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:19:43.077329+00:00",
+  "generated_at": "2026-08-09T15:21:26.962643+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
