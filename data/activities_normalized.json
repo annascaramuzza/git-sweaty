@@ -22735,5 +22735,31 @@
     "start_date_local": "2026-08-08T07:14:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 61202.5,
+    "elevation_gain": 407.0,
+    "id": "19671449430",
+    "moving_time": 7334.0,
+    "name": "Zwift - 2hr Short-Interval Aerobic Build",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-09T10:52:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 10067.7,
+    "elevation_gain": 69.0,
+    "id": "19681525818",
+    "moving_time": 2948.0,
+    "name": "2 Easy w/ Strides + 4 Steady",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-10T08:56:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
