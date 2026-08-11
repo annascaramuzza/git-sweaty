@@ -22761,5 +22761,44 @@
     "start_date_local": "2026-08-10T08:56:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19688786947",
+    "moving_time": 2602.0,
+    "name": "PT Exercises",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-10T19:42:03Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 7375.5,
+    "elevation_gain": 56.0,
+    "id": "19696134978",
+    "moving_time": 973.0,
+    "name": "Zwift - Brisk Burn",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-11T09:18:28Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 9828.4,
+    "elevation_gain": 108.0,
+    "id": "19696913494",
+    "moving_time": 3050.0,
+    "name": "6 Miles with 3x30\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-11T09:43:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
