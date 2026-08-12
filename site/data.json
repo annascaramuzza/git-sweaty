@@ -15785,6 +15785,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19696913494",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 13,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19704094266",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 7,
+      "name": "WU + 2x2K, 2x1K + CD",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19710834877",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30301,6 +30319,15 @@
           "distance": 9828.4,
           "elevation_gain": 108.0,
           "moving_time": 3050.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19710834877"
+          ],
+          "count": 1,
+          "distance": 14571.2,
+          "elevation_gain": 146.0,
+          "moving_time": 4125.0
         }
       },
       "StairStepper": {
@@ -30778,6 +30805,15 @@
           "distance": 2443.6,
           "elevation_gain": 40.0,
           "moving_time": 2245.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19704094266"
+          ],
+          "count": 1,
+          "distance": 3608.9,
+          "elevation_gain": 44.0,
+          "moving_time": 3073.0
         }
       },
       "WeightTraining": {
@@ -31121,7 +31157,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T15:50:23.683038+00:00",
+  "generated_at": "2026-08-12T15:51:15.665543+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
