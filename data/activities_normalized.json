@@ -22917,5 +22917,57 @@
     "start_date_local": "2026-08-15T17:54:56Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19768747957",
+    "moving_time": 3628.0,
+    "name": "Aqua Jogging",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-16T10:17:43Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 4309.3,
+    "elevation_gain": 76.0,
+    "id": "19771895356",
+    "moving_time": 3829.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-16T14:21:01Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 28187.0,
+    "elevation_gain": 290.0,
+    "id": "19772888241",
+    "moving_time": 3614.0,
+    "name": "Zwift - Sweet Spot to Tempo Over Unders",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-16T17:47:03Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 10069.6,
+    "elevation_gain": 85.0,
+    "id": "19780130859",
+    "moving_time": 3000.0,
+    "name": "Easy Steady Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-17T09:35:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
