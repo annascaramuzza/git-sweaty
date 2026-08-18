@@ -15902,6 +15902,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19780130859",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 7,
+      "name": "5 Mile Recovery",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19793091446",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30454,6 +30463,15 @@
           "distance": 10069.6,
           "elevation_gain": 85.0,
           "moving_time": 3000.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19793091446"
+          ],
+          "count": 1,
+          "distance": 8379.4,
+          "elevation_gain": 82.0,
+          "moving_time": 2802.0
         }
       },
       "StairStepper": {
@@ -31347,7 +31365,7 @@
       }
     }
   },
-  "generated_at": "2026-08-17T15:16:13.966352+00:00",
+  "generated_at": "2026-08-18T15:21:26.866438+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
