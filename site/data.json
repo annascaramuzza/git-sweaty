@@ -15911,6 +15911,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19793091446",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 18,
+      "name": "PT",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19801586168",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 7,
+      "name": "Cool Down",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19807695104",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 6,
+      "name": "Warm Up",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19807695108",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 6,
+      "name": "LHTC WoW!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19807695138",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30472,6 +30508,17 @@
           "distance": 8379.4,
           "elevation_gain": 82.0,
           "moving_time": 2802.0
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "19807695104",
+            "19807695108",
+            "19807695138"
+          ],
+          "count": 3,
+          "distance": 15209.199999999999,
+          "elevation_gain": 132.0,
+          "moving_time": 4226.0
         }
       },
       "StairStepper": {
@@ -31240,6 +31287,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2602.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19801586168"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2275.0
         }
       },
       "Workout": {
@@ -31365,7 +31421,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T15:21:26.866438+00:00",
+  "generated_at": "2026-08-19T15:21:12.674871+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
