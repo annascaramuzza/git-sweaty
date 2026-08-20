@@ -23034,5 +23034,31 @@
     "start_date_local": "2026-08-19T06:26:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 2967.5,
+    "elevation_gain": 51.0,
+    "id": "19815654895",
+    "moving_time": 2585.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-19T17:42:25Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 27902.4,
+    "elevation_gain": 314.0,
+    "id": "19823258108",
+    "moving_time": 3611.0,
+    "name": "Zwift - Sweet Spot Builds",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-20T08:09:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

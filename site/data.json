@@ -15947,6 +15947,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19807695138",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19815654895",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 8,
+      "name": "Zwift - Sweet Spot Builds",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19823258108",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30732,6 +30750,15 @@
           "distance": 28187.0,
           "elevation_gain": 290.0,
           "moving_time": 3614.0
+        },
+        "2026-08-20": {
+          "activity_ids": [
+            "19823258108"
+          ],
+          "count": 1,
+          "distance": 27902.4,
+          "elevation_gain": 314.0,
+          "moving_time": 3611.0
         }
       },
       "Walk": {
@@ -31060,6 +31087,15 @@
           "distance": 4309.3,
           "elevation_gain": 76.0,
           "moving_time": 3829.0
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "19815654895"
+          ],
+          "count": 1,
+          "distance": 2967.5,
+          "elevation_gain": 51.0,
+          "moving_time": 2585.0
         }
       },
       "WeightTraining": {
@@ -31421,7 +31457,7 @@
       }
     }
   },
-  "generated_at": "2026-08-19T15:21:12.674871+00:00",
+  "generated_at": "2026-08-20T15:24:12.493341+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
