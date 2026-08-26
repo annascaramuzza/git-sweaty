@@ -23177,5 +23177,31 @@
     "start_date_local": "2026-08-25T08:29:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 3707.5,
+    "elevation_gain": 50.0,
+    "id": "19900225618",
+    "moving_time": 2985.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-25T17:56:32Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 14270.0,
+    "elevation_gain": 126.0,
+    "id": "19906611252",
+    "moving_time": 3790.0,
+    "name": "LHTC WoW!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T05:51:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
