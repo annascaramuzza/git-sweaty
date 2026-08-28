@@ -23203,5 +23203,44 @@
     "start_date_local": "2026-08-26T05:51:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19913841925",
+    "moving_time": 4938.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-26T08:08:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 37423.2,
+    "elevation_gain": 239.0,
+    "id": "19922589884",
+    "moving_time": 4455.0,
+    "name": "Zwift - Aerobic Threshold Development",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-27T08:09:58Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19923643423",
+    "moving_time": 1985.0,
+    "name": "PT",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-27T10:18:39Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
