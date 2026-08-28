@@ -23242,5 +23242,18 @@
     "start_date_local": "2026-08-27T10:18:39Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 11916.5,
+    "elevation_gain": 33.0,
+    "id": "19936458879",
+    "moving_time": 3878.0,
+    "name": "Easy miles exploring Baltimore",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-28T08:46:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
