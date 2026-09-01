@@ -23281,5 +23281,31 @@
     "start_date_local": "2026-08-30T20:03:56Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 8215.0,
+    "elevation_gain": 75.0,
+    "id": "19982886681",
+    "moving_time": 2742.0,
+    "name": "5 Recovery",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-31T18:37:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 10951.7,
+    "elevation_gain": 107.0,
+    "id": "19991330927",
+    "moving_time": 3389.0,
+    "name": "Easy with 5x20\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-01T09:58:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
