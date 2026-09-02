@@ -23307,5 +23307,44 @@
     "start_date_local": "2026-09-01T09:58:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 3326.6,
+    "elevation_gain": 21.0,
+    "id": "20002894819",
+    "moving_time": 1029.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T05:50:45Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 9637.2,
+    "elevation_gain": 0.0,
+    "id": "20003563379",
+    "moving_time": 2444.0,
+    "name": "LHTC WoW! \ud83d\ude2e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T06:18:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 3290.0,
+    "elevation_gain": 1.0,
+    "id": "20004027615",
+    "moving_time": 1126.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T07:11:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
