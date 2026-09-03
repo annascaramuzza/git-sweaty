@@ -23346,5 +23346,31 @@
     "start_date_local": "2026-09-02T07:11:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 3420.1,
+    "elevation_gain": 66.0,
+    "id": "20012429437",
+    "moving_time": 2709.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-02T17:54:27Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 34194.0,
+    "elevation_gain": 258.0,
+    "id": "20020171089",
+    "moving_time": 4090.0,
+    "name": "Zwift - Aerobic Engine",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-03T08:41:08Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
