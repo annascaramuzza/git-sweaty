@@ -16190,6 +16190,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20035291757",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 7,
+      "name": "LHTC Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20046917043",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30863,6 +30872,15 @@
           "distance": 12948.1,
           "elevation_gain": 123.0,
           "moving_time": 4044.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20046917043"
+          ],
+          "count": 1,
+          "distance": 19546.3,
+          "elevation_gain": 116.0,
+          "moving_time": 5784.0
         }
       },
       "StairStepper": {
@@ -31891,7 +31909,7 @@
       }
     }
   },
-  "generated_at": "2026-09-04T17:54:13.041152+00:00",
+  "generated_at": "2026-09-05T17:01:20.157260+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
