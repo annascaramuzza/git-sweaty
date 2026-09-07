@@ -23424,5 +23424,31 @@
     "start_date_local": "2026-09-06T10:20:08Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 3765.8,
+    "elevation_gain": 60.0,
+    "id": "20066918896",
+    "moving_time": 3041.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-06T16:08:37Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 32521.5,
+    "elevation_gain": 227.0,
+    "id": "20075056526",
+    "moving_time": 9372.0,
+    "name": "20 Miler Second Attempt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-07T08:36:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

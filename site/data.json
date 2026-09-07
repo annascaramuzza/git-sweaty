@@ -16217,6 +16217,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/20063381018",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20066918896",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-07",
+      "hour": 8,
+      "name": "20 Miler Second Attempt",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20075056526",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30899,6 +30917,15 @@
           "distance": 19546.3,
           "elevation_gain": 116.0,
           "moving_time": 5784.0
+        },
+        "2026-09-07": {
+          "activity_ids": [
+            "20075056526"
+          ],
+          "count": 1,
+          "distance": 32521.5,
+          "elevation_gain": 227.0,
+          "moving_time": 9372.0
         }
       },
       "StairStepper": {
@@ -31530,6 +31557,15 @@
           "distance": 13029.0,
           "elevation_gain": 171.0,
           "moving_time": 9910.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20066918896"
+          ],
+          "count": 1,
+          "distance": 3765.8,
+          "elevation_gain": 60.0,
+          "moving_time": 3041.0
         }
       },
       "WeightTraining": {
@@ -31945,7 +31981,7 @@
       }
     }
   },
-  "generated_at": "2026-09-06T17:25:15.933045+00:00",
+  "generated_at": "2026-09-07T18:55:44.407565+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
