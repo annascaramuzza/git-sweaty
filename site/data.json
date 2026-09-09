@@ -16235,6 +16235,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20075056526",
       "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 19,
+      "name": "5 Recovery",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20095811119",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20102964198",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 10,
+      "name": "PT Exercises",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20104025521",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30926,6 +30953,24 @@
           "distance": 32521.5,
           "elevation_gain": 227.0,
           "moving_time": 9372.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20095811119"
+          ],
+          "count": 1,
+          "distance": 8247.5,
+          "elevation_gain": 77.0,
+          "moving_time": 2745.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20102964198"
+          ],
+          "count": 1,
+          "distance": 8239.9,
+          "elevation_gain": 76.0,
+          "moving_time": 2700.0
         }
       },
       "StairStepper": {
@@ -31838,6 +31883,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1985.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20104025521"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2068.0
         }
       },
       "Workout": {
@@ -31981,7 +32035,7 @@
       }
     }
   },
-  "generated_at": "2026-09-08T18:11:31.724919+00:00",
+  "generated_at": "2026-09-09T18:10:33.004602+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
