@@ -16298,6 +16298,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20173494910",
       "year": 2026
+    },
+    {
+      "date": "2026-09-15",
+      "hour": 12,
+      "name": "6 Recovery",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20183396022",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31043,6 +31052,15 @@
           "distance": 8184.1,
           "elevation_gain": 2.0,
           "moving_time": 2698.0
+        },
+        "2026-09-15": {
+          "activity_ids": [
+            "20183396022"
+          ],
+          "count": 1,
+          "distance": 10042.1,
+          "elevation_gain": 3.0,
+          "moving_time": 3282.0
         }
       },
       "StairStepper": {
@@ -32107,7 +32125,7 @@
       }
     }
   },
-  "generated_at": "2026-09-14T19:41:28.119981+00:00",
+  "generated_at": "2026-09-15T18:35:20.639698+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
