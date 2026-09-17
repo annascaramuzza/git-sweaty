@@ -16316,6 +16316,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20198043080",
       "year": 2026
+    },
+    {
+      "date": "2026-09-17",
+      "hour": 16,
+      "name": "7 with 6x30\u201d Strides",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20215389862",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31079,6 +31088,15 @@
           "distance": 11754.9,
           "elevation_gain": 7.0,
           "moving_time": 3861.0
+        },
+        "2026-09-17": {
+          "activity_ids": [
+            "20215389862"
+          ],
+          "count": 1,
+          "distance": 11354.8,
+          "elevation_gain": 2.0,
+          "moving_time": 3280.0
         }
       },
       "StairStepper": {
@@ -32143,7 +32161,7 @@
       }
     }
   },
-  "generated_at": "2026-09-16T18:33:13.617795+00:00",
+  "generated_at": "2026-09-17T18:41:14.100159+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

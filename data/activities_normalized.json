@@ -23567,5 +23567,18 @@
     "start_date_local": "2026-09-16T11:47:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 11354.8,
+    "elevation_gain": 2.0,
+    "id": "20215389862",
+    "moving_time": 3280.0,
+    "name": "7 with 6x30\u201d Strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-17T16:49:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
