@@ -16352,6 +16352,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20236339709",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20278976834",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31142,6 +31151,15 @@
           "distance": 16424.3,
           "elevation_gain": 8.0,
           "moving_time": 4771.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "20278976834"
+          ],
+          "count": 1,
+          "distance": 6536.5,
+          "elevation_gain": 2.0,
+          "moving_time": 2085.0
         }
       },
       "StairStepper": {
@@ -32215,7 +32233,7 @@
       }
     }
   },
-  "generated_at": "2026-09-21T19:49:21.368032+00:00",
+  "generated_at": "2026-09-22T18:24:57.999669+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
