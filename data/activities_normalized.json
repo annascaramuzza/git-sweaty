@@ -23658,5 +23658,18 @@
     "start_date_local": "2026-09-25T10:24:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 5225.4,
+    "elevation_gain": 16.0,
+    "id": "20337864147",
+    "moving_time": 1507.0,
+    "name": "Shake Out!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T11:27:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
