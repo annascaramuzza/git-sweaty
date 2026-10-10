@@ -16433,6 +16433,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20508058761",
       "year": 2026
+    },
+    {
+      "date": "2026-10-09",
+      "hour": 18,
+      "name": "Zwift - Rolling Hills #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20520755081",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20530918959",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31295,6 +31313,15 @@
           "distance": 8214.4,
           "elevation_gain": 73.0,
           "moving_time": 2525.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20530918959"
+          ],
+          "count": 1,
+          "distance": 11510.5,
+          "elevation_gain": 98.0,
+          "moving_time": 3674.0
         }
       },
       "StairStepper": {
@@ -31544,6 +31571,15 @@
           "distance": 34194.0,
           "elevation_gain": 258.0,
           "moving_time": 4090.0
+        },
+        "2026-10-09": {
+          "activity_ids": [
+            "20520755081"
+          ],
+          "count": 1,
+          "distance": 26523.1,
+          "elevation_gain": 200.0,
+          "moving_time": 3370.0
         }
       },
       "Walk": {
@@ -32377,7 +32413,7 @@
       }
     }
   },
-  "generated_at": "2026-10-09T19:54:19.701645+00:00",
+  "generated_at": "2026-10-10T19:03:41.367032+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
