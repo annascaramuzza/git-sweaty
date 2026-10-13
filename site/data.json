@@ -16469,6 +16469,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20553728289",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 9,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20569524824",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32016,6 +32025,15 @@
           "distance": 4538.2,
           "elevation_gain": 76.0,
           "moving_time": 3863.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20569524824"
+          ],
+          "count": 1,
+          "distance": 3380.1,
+          "elevation_gain": 67.0,
+          "moving_time": 2548.0
         }
       },
       "WeightTraining": {
@@ -32449,7 +32467,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T22:18:59.226012+00:00",
+  "generated_at": "2026-10-13T20:26:06.498972+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
