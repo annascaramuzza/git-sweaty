@@ -23801,5 +23801,31 @@
     "start_date_local": "2026-10-13T09:39:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 32444.9,
+    "elevation_gain": 108.0,
+    "id": "20574508672",
+    "moving_time": 3689.0,
+    "name": "Zwift - Get It Done",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-13T17:49:15Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 10016.7,
+    "elevation_gain": 71.0,
+    "id": "20584117408",
+    "moving_time": 3124.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-14T10:53:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

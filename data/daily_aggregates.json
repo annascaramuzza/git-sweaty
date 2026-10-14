@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:26:06.470975+00:00",
+  "generated_at": "2026-10-14T19:03:27.368876+00:00",
   "years": {
     "2021": {
       "Run": {
@@ -14878,6 +14878,15 @@
           "distance": 8208.8,
           "elevation_gain": 71.0,
           "moving_time": 2605.0
+        },
+        "2026-10-14": {
+          "activity_ids": [
+            "20584117408"
+          ],
+          "count": 1,
+          "distance": 10016.7,
+          "elevation_gain": 71.0,
+          "moving_time": 3124.0
         }
       },
       "StairStepper": {
@@ -15136,6 +15145,15 @@
           "distance": 26523.1,
           "elevation_gain": 200.0,
           "moving_time": 3370.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20574508672"
+          ],
+          "count": 1,
+          "distance": 32444.9,
+          "elevation_gain": 108.0,
+          "moving_time": 3689.0
         }
       },
       "Walk": {
