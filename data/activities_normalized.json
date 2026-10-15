@@ -23827,5 +23827,44 @@
     "start_date_local": "2026-10-14T10:53:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 3117.3,
+    "elevation_gain": 64.0,
+    "id": "20588724053",
+    "moving_time": 2695.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-14T17:58:16Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20596136438",
+    "moving_time": 1229.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-15T09:52:27Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20596865674",
+    "moving_time": 2976.0,
+    "name": "Morning Stair-Stepper",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-10-15T10:20:11Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]
