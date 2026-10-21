@@ -23944,5 +23944,44 @@
     "start_date_local": "2026-10-19T11:01:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 8613.0,
+    "elevation_gain": 74.0,
+    "id": "20667829306",
+    "moving_time": 2641.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-20T18:22:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 13777.2,
+    "elevation_gain": 23.0,
+    "id": "20673440135",
+    "moving_time": 3686.0,
+    "name": "LHTC WoW!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-21T05:54:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20674650560",
+    "moving_time": 3716.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-21T08:11:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
