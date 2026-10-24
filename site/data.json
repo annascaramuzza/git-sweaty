@@ -16613,6 +16613,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20694245670",
       "year": 2026
+    },
+    {
+      "date": "2026-10-23",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20705740625",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 7,
+      "name": "LHTC Long Run!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20712941776",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31547,6 +31565,24 @@
           "distance": 13777.2,
           "elevation_gain": 23.0,
           "moving_time": 3686.0
+        },
+        "2026-10-23": {
+          "activity_ids": [
+            "20705740625"
+          ],
+          "count": 1,
+          "distance": 8377.0,
+          "elevation_gain": 75.0,
+          "moving_time": 2628.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20712941776"
+          ],
+          "count": 1,
+          "distance": 25205.9,
+          "elevation_gain": 60.0,
+          "moving_time": 7029.0
         }
       },
       "StairStepper": {
@@ -32737,7 +32773,7 @@
       }
     }
   },
-  "generated_at": "2026-10-23T18:47:53.737822+00:00",
+  "generated_at": "2026-10-24T17:43:07.096428+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
