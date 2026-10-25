@@ -16631,6 +16631,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20712941776",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 8,
+      "name": "MCM Spectating!",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20727742039",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32304,6 +32313,15 @@
           "distance": 3385.0,
           "elevation_gain": 58.0,
           "moving_time": 3191.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20727742039"
+          ],
+          "count": 1,
+          "distance": 5551.2,
+          "elevation_gain": 26.0,
+          "moving_time": 4023.0
         }
       },
       "WeightTraining": {
@@ -32773,7 +32791,7 @@
       }
     }
   },
-  "generated_at": "2026-10-24T17:43:07.096428+00:00",
+  "generated_at": "2026-10-25T17:58:47.603412+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

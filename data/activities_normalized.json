@@ -24022,5 +24022,18 @@
     "start_date_local": "2026-10-24T07:18:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 5551.2,
+    "elevation_gain": 26.0,
+    "id": "20727742039",
+    "moving_time": 4023.0,
+    "name": "MCM Spectating!",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-25T08:45:41Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
