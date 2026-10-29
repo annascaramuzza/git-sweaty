@@ -16694,6 +16694,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20764968909",
       "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 17,
+      "name": "Zwift - 30 min Easy Spin",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20771355300",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20778436656",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31949,6 +31967,15 @@
           "distance": 32444.9,
           "elevation_gain": 108.0,
           "moving_time": 3689.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "20771355300"
+          ],
+          "count": 1,
+          "distance": 14874.7,
+          "elevation_gain": 77.0,
+          "moving_time": 1839.0
         }
       },
       "Walk": {
@@ -32412,6 +32439,15 @@
           "distance": 3357.0,
           "elevation_gain": 62.0,
           "moving_time": 2909.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20778436656"
+          ],
+          "count": 1,
+          "distance": 4349.9,
+          "elevation_gain": 69.0,
+          "moving_time": 3813.0
         }
       },
       "WeightTraining": {
@@ -32899,7 +32935,7 @@
       }
     }
   },
-  "generated_at": "2026-10-28T19:59:02.987697+00:00",
+  "generated_at": "2026-10-29T19:57:45.752546+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
