@@ -16712,6 +16712,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20778436656",
       "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 18,
+      "name": "Evening Stair-Stepper",
+      "subtype": "StairStepper",
+      "type": "StairStepper",
+      "url": "https://www.strava.com/activities/20785234173",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20792562203",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31691,6 +31709,15 @@
           "distance": 14507.3,
           "elevation_gain": 24.0,
           "moving_time": 3948.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "20792562203"
+          ],
+          "count": 1,
+          "distance": 10185.3,
+          "elevation_gain": 88.0,
+          "moving_time": 3240.0
         }
       },
       "StairStepper": {
@@ -31729,6 +31756,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2976.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20785234173"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3658.0
         }
       },
       "Swim": {
@@ -32935,7 +32971,7 @@
       }
     }
   },
-  "generated_at": "2026-10-29T19:57:45.752546+00:00",
+  "generated_at": "2026-10-30T19:46:51.144356+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
