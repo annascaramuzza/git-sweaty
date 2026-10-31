@@ -24165,5 +24165,31 @@
     "start_date_local": "2026-10-30T10:41:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 3422.9,
+    "elevation_gain": 57.0,
+    "id": "20797071382",
+    "moving_time": 3123.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-30T18:03:37Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 25836.2,
+    "elevation_gain": 137.0,
+    "id": "20805408869",
+    "moving_time": 7200.0,
+    "name": "LHTC Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T08:42:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
