@@ -24204,5 +24204,31 @@
     "start_date_local": "2026-11-01T10:31:01Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 8218.0,
+    "elevation_gain": 70.0,
+    "id": "20836748880",
+    "moving_time": 2600.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-02T18:31:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 10087.0,
+    "elevation_gain": 83.0,
+    "id": "20843744333",
+    "moving_time": 3069.0,
+    "name": "Go Vote!!!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T08:45:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
