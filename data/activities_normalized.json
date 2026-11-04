@@ -24230,5 +24230,44 @@
     "start_date_local": "2026-11-03T08:45:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 7653.3,
+    "elevation_gain": 130.0,
+    "id": "20848959027",
+    "moving_time": 6141.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-03T14:57:09Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 15299.0,
+    "elevation_gain": 23.0,
+    "id": "20855819264",
+    "moving_time": 4185.0,
+    "name": "LHTC Workout Wednesday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-04T05:58:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20861039748",
+    "moving_time": 3320.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-04T08:20:51Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
