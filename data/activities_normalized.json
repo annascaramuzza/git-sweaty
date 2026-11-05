@@ -24269,5 +24269,31 @@
     "start_date_local": "2026-11-04T08:20:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 12555.9,
+    "elevation_gain": 100.0,
+    "id": "20863393401",
+    "moving_time": 1569.0,
+    "name": "Zwift - Terrain Toner",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-04T18:05:17Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20871027023",
+    "moving_time": 3603.0,
+    "name": "Morning Stair-Stepper",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-11-05T09:09:41Z",
+    "type": "StairStepper",
+    "year": 2026
   }
 ]
