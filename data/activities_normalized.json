@@ -24308,5 +24308,18 @@
     "start_date_local": "2026-11-06T08:42:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 12961.4,
+    "elevation_gain": 114.0,
+    "id": "20898588831",
+    "moving_time": 3621.0,
+    "name": "8 with 4@HMP",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-07T11:35:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

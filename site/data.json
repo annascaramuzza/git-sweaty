@@ -16829,6 +16829,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20883348591",
       "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 11,
+      "name": "8 with 4@HMP",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20898588831",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31862,6 +31871,15 @@
           "distance": 11595.6,
           "elevation_gain": 98.0,
           "moving_time": 3635.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "20898588831"
+          ],
+          "count": 1,
+          "distance": 12961.4,
+          "elevation_gain": 114.0,
+          "moving_time": 3621.0
         }
       },
       "StairStepper": {
@@ -33169,7 +33187,7 @@
       }
     }
   },
-  "generated_at": "2026-11-06T20:39:27.735494+00:00",
+  "generated_at": "2026-11-07T19:11:56.051325+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
