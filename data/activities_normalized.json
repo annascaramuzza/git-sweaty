@@ -24360,5 +24360,18 @@
     "start_date_local": "2026-11-09T17:18:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 11837.9,
+    "elevation_gain": 10.0,
+    "id": "20932446847",
+    "moving_time": 3134.0,
+    "name": "Richmond Half Tune Up!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T06:16:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
