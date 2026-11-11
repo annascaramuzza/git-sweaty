@@ -16874,6 +16874,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20932446847",
       "year": 2026
+    },
+    {
+      "date": "2026-11-10",
+      "hour": 7,
+      "name": "Cool Down",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20939956375",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31928,12 +31937,13 @@
         },
         "2026-11-10": {
           "activity_ids": [
-            "20932446847"
+            "20932446847",
+            "20939956375"
           ],
-          "count": 1,
-          "distance": 11837.9,
-          "elevation_gain": 10.0,
-          "moving_time": 3134.0
+          "count": 2,
+          "distance": 13970.5,
+          "elevation_gain": 32.0,
+          "moving_time": 3811.0
         }
       },
       "StairStepper": {
@@ -33259,7 +33269,7 @@
       }
     }
   },
-  "generated_at": "2026-11-10T21:06:03.828544+00:00",
+  "generated_at": "2026-11-11T21:44:27.270087+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

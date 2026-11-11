@@ -24373,5 +24373,18 @@
     "start_date_local": "2026-11-10T06:16:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 2132.6,
+    "elevation_gain": 22.0,
+    "id": "20939956375",
+    "moving_time": 677.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T07:45:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
