@@ -24393,10 +24393,23 @@
     "elevation_gain": 43.0,
     "id": "20975183057",
     "moving_time": 1200.0,
-    "name": "Lunch Run",
+    "name": "Shakeout",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-11-13T12:42:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 21062.7,
+    "elevation_gain": 100.0,
+    "id": "20984999253",
+    "moving_time": 5587.0,
+    "name": "Richmond Half",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T07:15:12Z",
     "type": "Run",
     "year": 2026
   }
