@@ -16955,6 +16955,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21034524797",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21052328101",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-20",
+      "hour": 12,
+      "name": "6 Easy with 5x30\u201d strides",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21061788371",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32052,6 +32070,24 @@
           "distance": 13115.3,
           "elevation_gain": 0.0,
           "moving_time": 3755.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21052328101"
+          ],
+          "count": 1,
+          "distance": 8298.9,
+          "elevation_gain": 79.0,
+          "moving_time": 2724.0
+        },
+        "2026-11-20": {
+          "activity_ids": [
+            "21061788371"
+          ],
+          "count": 1,
+          "distance": 10067.0,
+          "elevation_gain": 81.0,
+          "moving_time": 3006.0
         }
       },
       "StairStepper": {
@@ -33407,7 +33443,7 @@
       }
     }
   },
-  "generated_at": "2026-11-19T22:30:41.807137+00:00",
+  "generated_at": "2026-11-20T22:03:12.759952+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",

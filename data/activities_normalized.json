@@ -24490,5 +24490,31 @@
     "start_date_local": "2026-11-18T07:27:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 8298.9,
+    "elevation_gain": 79.0,
+    "id": "21052328101",
+    "moving_time": 2724.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-19T16:51:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 10067.0,
+    "elevation_gain": 81.0,
+    "id": "21061788371",
+    "moving_time": 3006.0,
+    "name": "6 Easy with 5x30\u201d strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-20T12:43:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
