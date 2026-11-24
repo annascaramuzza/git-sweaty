@@ -24555,5 +24555,44 @@
     "start_date_local": "2026-11-22T11:28:57Z",
     "type": "StairStepper",
     "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 10013.1,
+    "elevation_gain": 26.0,
+    "id": "21102367405",
+    "moving_time": 8322.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-23T13:05:33Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 9730.2,
+    "elevation_gain": 15.0,
+    "id": "21107353395",
+    "moving_time": 3022.0,
+    "name": "Bosques de Palermo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-24T09:32:41Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 8089.0,
+    "elevation_gain": 25.0,
+    "id": "21113623283",
+    "moving_time": 7185.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-24T12:17:00Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

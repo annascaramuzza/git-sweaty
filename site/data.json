@@ -17000,6 +17000,33 @@
       "type": "StairStepper",
       "url": "https://www.strava.com/activities/21086398872",
       "year": 2026
+    },
+    {
+      "date": "2026-11-23",
+      "hour": 13,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/21102367405",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-24",
+      "hour": 9,
+      "name": "Bosques de Palermo",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21107353395",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-24",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/21113623283",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32124,6 +32151,15 @@
           "distance": 14524.6,
           "elevation_gain": 113.0,
           "moving_time": 4176.0
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "21107353395"
+          ],
+          "count": 1,
+          "distance": 9730.2,
+          "elevation_gain": 15.0,
+          "moving_time": 3022.0
         }
       },
       "StairStepper": {
@@ -32992,6 +33028,24 @@
           "distance": 2432.5,
           "elevation_gain": 47.0,
           "moving_time": 2016.0
+        },
+        "2026-11-23": {
+          "activity_ids": [
+            "21102367405"
+          ],
+          "count": 1,
+          "distance": 10013.1,
+          "elevation_gain": 26.0,
+          "moving_time": 8322.0
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "21113623283"
+          ],
+          "count": 1,
+          "distance": 8089.0,
+          "elevation_gain": 25.0,
+          "moving_time": 7185.0
         }
       },
       "WeightTraining": {
@@ -33497,7 +33551,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T01:57:36.591573+00:00",
+  "generated_at": "2026-11-24T23:41:31.369977+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
