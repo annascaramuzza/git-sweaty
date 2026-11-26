@@ -24607,5 +24607,18 @@
     "start_date_local": "2026-11-25T09:14:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 8905.9,
+    "elevation_gain": 79.0,
+    "id": "21136878931",
+    "moving_time": 2705.0,
+    "name": "El Calafate Waterfront!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-26T17:17:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

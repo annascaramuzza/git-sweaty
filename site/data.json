@@ -17036,6 +17036,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21119720649",
       "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 17,
+      "name": "El Calafate Waterfront!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21136878931",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32178,6 +32187,15 @@
           "distance": 12437.2,
           "elevation_gain": 26.0,
           "moving_time": 3840.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21136878931"
+          ],
+          "count": 1,
+          "distance": 8905.9,
+          "elevation_gain": 79.0,
+          "moving_time": 2705.0
         }
       },
       "StairStepper": {
@@ -33569,7 +33587,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T23:25:05.560522+00:00",
+  "generated_at": "2026-11-26T23:24:53.137663+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84620537",
   "repo": "annascaramuzza/git-sweaty",
